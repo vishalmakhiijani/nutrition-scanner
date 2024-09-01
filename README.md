@@ -1,12 +1,12 @@
 # NutriTrack
 
-**NutriTrack** is an Android app designed to help users make healthier food choices. By scanning barcodes, the app fetches and displays detailed nutritional information and NutriScore ratings from Open Food Facts. Users can easily access data such as energy content, fat, and sugar levels, along with product images, all on the go.
+**NutriTrack** is an Android app designed to help users make healthier food choices. By scanning barcodes, the app fetches and displays detailed nutritional information and NutriScore ratings from Open Food Facts. Users can easily access data such as energy content, fat, sugar levels, and product images on the go.
 
 ## Features
 
-- **Barcode Scanning**: Scan barcodes quickly to retrieve product information.
+- **Barcode Scanning**: Scan barcodes to retrieve product information.
 - **Nutritional Info**: View details like energy, fat, sugar content, and more.
-- **NutriScore Display**: See the NutriScore to easily gauge the healthiness of products.
+- **NutriScore Display**: See the NutriScore to gauge the healthiness of products easily.
 - **Product Images**: Visual representation of the scanned products.
 - **Smooth UI**: User-friendly interface with seamless navigation.
 
@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NutriTrack.git
+   git clone https://github.com/vishalmakhiijani/nutrition-scanner.git
     Open the project in Android Studio.
     Build and run the app on your Android device.
 
