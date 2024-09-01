@@ -22,14 +22,15 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/vishalmakhiijani/nutrition-scanner.git
-    Open the project in Android Studio.
-    Build and run the app on your Android device.
+   ```
+2. Open the project in Android Studio.
+3. Build and run the app on your Android device.
 
 ## Dependencies
 
-    ZXing: For barcode scanning functionality.
-    Retrofit: To handle network requests to Open Food Facts API.
-    Picasso: For loading product images from URLs.
+   ZXing: For barcode scanning functionality.
+   Retrofit: To handle network requests to Open Food Facts API.
+   Picasso: For loading product images from URLs.
 
 License
 
